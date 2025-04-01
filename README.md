@@ -9,7 +9,7 @@
             font-family: Arial, sans-serif;
             margin: 40px;
             text-align: center;
-            background-color: #f4f4f4;
+            background-color: #f546f4;
         }
         .container {
             max-width: 600px;
@@ -17,7 +17,7 @@
             padding: 20px;
             border: 2px solid #333;
             border-radius: 10px;
-            background-color: #fff;
+            background-color: #ff7;
             box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
         }
         h1 {
