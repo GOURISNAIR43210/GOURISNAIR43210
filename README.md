@@ -6,10 +6,10 @@
     <title>My Introduction</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Times New Roman', serif;
             margin: 40px;
             text-align: center;
-            background-color: #f546f4;
+            background-color: #f4f4f4;
         }
         .container {
             max-width: 600px;
@@ -17,7 +17,7 @@
             padding: 20px;
             border: 2px solid #333;
             border-radius: 10px;
-            background-color: #ff7;
+            background-color: #fff;
             box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
         }
         h1 {
@@ -25,6 +25,11 @@
         }
         p {
             font-size: 18px;
+        }
+        .skills img {
+            width: 50px;
+            height: 50px;
+            margin: 10px;
         }
     </style>
 </head>
@@ -34,7 +39,10 @@
         <p>I am a <strong>Computer Science B.Tech fresher</strong> from Kerala, passionate about coding and problem-solving.</p>
         <p>I love exploring new technologies, building innovative solutions, and improving my skills.</p>
         <p>My interests include <strong>software development, web technologies, and data structures & algorithms</strong>.</p>
-        <p>Excited to learn, grow, and collaborate on exciting projects! 🚀</p>
-    </div>
-</body>
-</html>
+        <p>Excited to learn, grow, and collaborate on exciting projects!/p>
+        
+        <h2>My Skills</h2>
+        <div class="skills">
+            <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo">
+            <img src="https://upload.wikimedia.org/wi
