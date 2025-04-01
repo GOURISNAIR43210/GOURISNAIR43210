@@ -1,33 +1,24 @@
 ## Hi there 👋
 
-I'm **Scratch**, a **fresher** with a strong passion for **programming**. I’m continuously learning and exploring new technologies, with a focus on improving my coding skills and building projects.
+
+I'm a **fresher** with a strong passion for **programming**. I’m continuously learning and exploring new technologies, with a focus on improving my coding skills and building projects.I am committed to learning and growing as a programmer, and I'm excited to apply my skills to real-world project.
 
 ### My Skills:
   
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <div style="display: flex; align-items: center;">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin-right: 10px;">
-    <span>Version control for collaborative coding and project management</span>
-  </div>
+<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   
-  <div style="display: flex; align-items: center;">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" style="margin-right: 10px;">
-    <span>Building cross-platform mobile applications</span>
-  </div>
-  
-  <div style="display: flex; align-items: center;">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin-right: 10px;">
-    <span>Object-oriented programming and software development</span>
-  </div>
-  
-  <div style="display: flex; align-items: center;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right: 10px;">
-    <span>Scripting, automation, and data analysis</span>
-  </div>
-</div>
+<img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logocolor=#FF69B4" alt="Python" />
+<img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=java&logoColor=#FF69B4" alt="Java" />
+<img src="https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white&color=FF69B4" alt="Git" />
+<img src="https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&color=FF69B4" alt="HTML-5" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&color=FF69B4" alt="Flutter" />
+<img src="https://img.shields.io/badge/VS_Code-FF69B4?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=FF69B4" alt="VS Code" />
 
-I am committed to learning and growing as a programmer, and I'm excited to apply my skills to real-world projects!
-
+#### Here is my **LinkedIn** profile link
 <a href="https://www.linkedin.com/in/gouri-s-nair-58a181335"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+
 
 
