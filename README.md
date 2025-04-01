@@ -1,48 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Introduction</title>
-    <style>
-        body {
-            font-family: 'Times New Roman', serif;
-            margin: 40px;
-            text-align: center;
-            background-color: #f4f4f4;
-        }
-        .container {
-            max-width: 600px;
-            margin: auto;
-            padding: 20px;
-            border: 2px solid #333;
-            border-radius: 10px;
-            background-color: #fff;
-            box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            color: #007bff;
-        }
-        p {
-            font-size: 18px;
-        }
-        .skills img {
-            width: 50px;
-            height: 50px;
-            margin: 10px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Hello! 👋</h1>
-        <p>I am a <strong>Computer Science B.Tech fresher</strong> from Kerala, passionate about coding and problem-solving.</p>
-        <p>I love exploring new technologies, building innovative solutions, and improving my skills.</p>
-        <p>My interests include <strong>software development, web technologies, and data structures & algorithms</strong>.</p>
-        <p>Excited to learn, grow, and collaborate on exciting projects!/p>
-        
-        <h2>My Skills</h2>
-        <div class="skills">
-            <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo">
-            <img src="https://upload.wikimedia.org/wi
+## Hi there 👋
+
+I'm **Scratch**, a **fresher** with a strong passion for **programming**. I’m continuously learning and exploring new technologies, with a focus on improving my coding skills and building projects.
+
+- **Skills**: 
+  - **Git**: Version control for collaborative coding and project management.
+  - **Flutter**: Building cross-platform mobile applications.
+  - **Java**: Object-oriented programming and software development.
+  - **Python**: Scripting, automation, and data analysis.
+
+I am committed to learning and growing as a programmer, and I'm excited to apply my skills to real-world projects!
+
+<a href="[https://linkedin.com/scratch](https://www.linkedin.com/in/gouri-s-nair-58a181335?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJ%2FG4%2Fe6qQIq%2FBYsDihWodQ%3D%3D)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
