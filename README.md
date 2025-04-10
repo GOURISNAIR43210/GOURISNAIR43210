@@ -49,8 +49,7 @@ I'm looking forward to contributing to impactful projects and becoming a valuabl
   <img src="https://img.shields.io/badge/Servlet-FF69B4?style=for-the-badge&logo=java&logoColor=white" alt="Servlet" />
   <img src="https://img.shields.io/badge/Maven-FF69B4?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
 
-#### Here is my **LinkedIn** profile link
-<a href="https://www.linkedin.com/in/gouri-s-nair-58a181335"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 
 ## 💼 My Projects
@@ -60,10 +59,13 @@ I'm looking forward to contributing to impactful projects and becoming a valuabl
 | **Fake Health News Detection** | A Django-based system to detect fake health news using machine learning. | [View Repo](https://github.com/GOURISNAIR43210/fake-health-news)     |
 | **My Java Login System**      | A Java web app using JSP, Servlets, and Oracle DB for user authentication. |        
 
+#### Here is my **LinkedIn** profile link
+<a href="https://www.linkedin.com/in/gouri-s-nair-58a181335"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+#### 📩 **Let's Connect:** Feel free to reach out via [Email](mailto:gourisnair43210@gmail.com) – I'm always open to exciting opportunities!
 
 
 
-📫 Reach me: gourisnair24805@gmail.com 
 
 
 
