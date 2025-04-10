@@ -62,7 +62,7 @@ I'm looking forward to contributing to impactful projects and becoming a valuabl
 #### Here is my **LinkedIn** profile link
 <a href="https://www.linkedin.com/in/gouri-s-nair-58a181335"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-#### 📩 **Let's Connect:** Feel free to reach out via [Email](mailto:gourisnair43210@gmail.com) – I'm always open to exciting opportunities!
+#### 📩 **Let's Connect:** Feel free to reach out via [Email](mailto:gourisnair24805@gmail.com) – I'm always open to exciting opportunities!
 
 
 
