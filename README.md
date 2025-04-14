@@ -56,7 +56,7 @@ I'm looking forward to contributing to impactful projects and becoming a valuabl
 
 | Project Name             | Description                                                                 | Link                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|
-| **Simple Calculator**    | A simple calculator using CSS JavaScript and HTML |      
+| **Simple Calculator**    |Know more about me,and see a simple calculator using CSS JavaScript and HTML |      https://gourisnair43210.github.io/simple-calculator/
 | **Fake Health News Detection** | A Django-based system to detect fake health news using machine learning. | [View Repo](https://github.com/GOURISNAIR43210/fake-health-news)     |
 | **My Java Login System**      | A Java web app using JSP, Servlets, and Oracle DB for user authentication. |        
       
